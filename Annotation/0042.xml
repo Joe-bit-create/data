@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0042.png</filename>
+	<path>/home/zheng/文档/data/JPEGImages/0042.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1037</xmin>
+			<ymin>307</ymin>
+			<xmax>1169</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
